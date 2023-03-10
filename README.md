@@ -1,4 +1,3 @@
-# Machine-Learning-Miuul-
 Projects from Miuul Machine Learning Summer Camp
 
 ## Machine Learning Summer Camp 
